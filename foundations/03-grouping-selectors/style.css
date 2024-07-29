@@ -1,0 +1,13 @@
+.clicker1,
+.clicker2 {
+    font-size: 28px;
+    font-family: helvetica. "times new roman". sans-serif;
+}
+
+.clicker1 {
+    color: white; background-color: black;
+}
+
+.clicker2 {
+    background-color: yellow;
+}
