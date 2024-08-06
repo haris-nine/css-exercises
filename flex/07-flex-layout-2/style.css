@@ -15,7 +15,7 @@ body {
   font-weight: 900;
   display: flex;
   align-items: center;
-  padding-left: 16px;
+  padding: 16px;
 }
 
 .footer {
@@ -42,11 +42,13 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   max-width: 200px;
-  padding: 48px;
+  padding: 16px;
 }
 .cards {
   display: flex;
   flex-wrap: wrap;
+  gap: 32px;
+  padding: 48px;
 
 }
 .container {
